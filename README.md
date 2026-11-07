@@ -20,9 +20,9 @@ Python, Flask, pdfplumber, scikit-learn, HTML/CSS
 3. Open `http://127.0.0.1:5001` in your browser
 
 ## Screenshots
-![Home](screenshots/home.png)
-![Results 1](screenshots/results1.png)
-![Results 2](screenshots/results2.png)
+![Home](home.png)
+![Results 1](results1.png)
+![Results 2](results2.png)
 
 ## Limitations and Future Work
 - Skill detection is keyword-based (fixed skills list)
